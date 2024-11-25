@@ -1,0 +1,19 @@
+.marian{
+    border: 3px;
+    text-align: center;
+    color: darkgrey;
+}
+h5{
+    color: darkgrey;
+}
+h3{
+    text-align: center;
+}
+table,tr,th{
+ 
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+   
+}
